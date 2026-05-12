@@ -57,5 +57,5 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: [https://linkedin.com](https://www.linkedin.com/in/jimit-vagadiya-73962840a)
-- GitHub: https://github.com
+🔗 LinkedIn: https://www.linkedin.com/in/jimit-vagadiya-73962840a
+💻 GitHub: https://github.com/vagadiyajimit3-debug
